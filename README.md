@@ -1,4 +1,4 @@
-# cogitatio
+# Cogitatio
 
 A new Flutter project.
 
